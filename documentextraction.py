@@ -8,9 +8,9 @@
 #   macOS: brew install tesseract
 #
 # Key:
-#   export ANTHROPIC_API_KEY="sk-ant-..."
+#   export ANTHROPIC_API_KEY="YOUR_ANTHROPIC_API_KEY"
 #   OR create .streamlit/secrets.toml with:
-#      ANTHROPIC_API_KEY="sk-ant-..."
+#      ANTHROPIC_API_KEY="YOUR_ANTHROPIC_API_KEY"
 
 import io
 import json
